@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StopWatch</string>
+    <string name="healthy_on_you">Healthy On You</string>
+    <string name="sub_text">Key of Happiness is not a \n life for money</string>
+    <string name="get_started">Get Started</string>
+    <string name="stop">Stop</string>
+</resources>
